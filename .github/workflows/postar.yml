@@ -98,4 +98,4 @@ jobs:
             git commit -m "Atualiza posts"
             git pull --rebase
             git push
-          fiDD
+          fi
