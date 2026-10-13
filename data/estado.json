@@ -1,6 +1,6 @@
 {
-  "update_offset": 398907449,
-  "proximo_id": 3,
+  "update_offset": 398907450,
+  "proximo_id": 4,
   "produtos": [
     {
       "id": "p0001",
@@ -28,6 +28,20 @@
       "preco": "R$ 125,99",
       "detalhes": "",
       "link": "https://s.shopee.com.br/9V2DjYOQBf",
+      "status": "pronto"
+    },
+    {
+      "id": "p0003",
+      "criado_em": "2026-10-13T22:47:39+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        10,
+        11
+      ],
+      "nome": "Multimidia 7\" Polegadas Android Corsa G1 Classic Wagon Pickup Android Auto CarPlay Wi-Fi +",
+      "preco": "R$ 721,63",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/7AeJ44qACK",
       "status": "pronto"
     }
   ]
