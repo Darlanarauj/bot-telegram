@@ -1,0 +1,13 @@
+{
+  "titulo_site": "Achadinhos do Dia",
+  "subtitulo_site": "Os melhores achadinhos da Shopee, escolhidos todo dia",
+  "instagram": "",
+  "produtos_por_post": 3,
+  "max_produtos_na_pagina": 40,
+  "hashtags": ["#publi", "#achadinhos", "#shopee", "#achadinhosshopee", "#ofertas"],
+  "aviso_afiliado": "Publicidade: links de afiliado. Posso receber comissão se você comprar. Preços podem mudar.",
+  "max_tentativas": 3,
+  "manter_imagens": 80,
+  "modelo_gemini": "gemini-2.5-flash",
+  "versao_api_instagram": "v23.0"
+}
