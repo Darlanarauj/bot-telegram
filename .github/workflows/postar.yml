@@ -24,7 +24,7 @@ env:
   TESTE: ${{ github.event_name == 'workflow_dispatch' && inputs.teste && '1' || '0' }}
   TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
   TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-  IG_TOKEN: ${{ secrets.IG_TOKEN }}
+  IG_TOKEN: ${{ secrets.INSTAGRAM_TOKEN  }}
   IG_USER_ID: ${{ secrets.IG_USER_ID }}
   GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
