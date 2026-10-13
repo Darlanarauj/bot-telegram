@@ -1,5 +1,20 @@
 {
-  "update_offset": 0,
-  "proximo_id": 1,
-  "produtos": []
+  "update_offset": 398907448,
+  "proximo_id": 2,
+  "produtos": [
+    {
+      "id": "p0001",
+      "criado_em": "2026-10-13T18:43:09+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        5,
+        7
+      ],
+      "nome": "Drone E88",
+      "preco": "R$ 129,98",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/BUYRRZBo0",
+      "status": "pronto"
+    }
+  ]
 }
