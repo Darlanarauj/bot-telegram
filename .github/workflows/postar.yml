@@ -1,0 +1,101 @@
+name: Postar no Instagram
+
+on:
+  schedule:
+    - cron: "30 15 * * *"
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+    inputs:
+      teste:
+        description: "Modo teste (NAO posta no Instagram)"
+        type: boolean
+        default: true
+
+concurrency:
+  group: achadinhos
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+env:
+  TESTE: ${{ github.event_name == 'workflow_dispatch' && inputs.teste && '1' || '0' }}
+  TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+  IG_TOKEN: ${{ secrets.IG_TOKEN }}
+  IG_USER_ID: ${{ secrets.IG_USER_ID }}
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+jobs:
+  preparar:
+    if: vars.PAUSAR != '1'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Ler mensagens novas do Telegram
+        run: python -m bot.receber
+      - name: Escolher produtos e atualizar a pagina
+        run: python -m bot.preparar
+      - name: Salvar
+        run: |
+          git config user.name "achadinhos-bot"
+          git config user.email "achadinhos-bot@users.noreply.github.com"
+          git add -A data
+          if [ -d site ]; then git add -A site; fi
+          if git diff --cached --quiet; then
+            echo "Nada novo."
+          else
+            git commit -m "Prepara post"
+            git pull --rebase
+            git push
+          fi
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  publicar-site:
+    needs: preparar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    steps:
+      - id: pages
+        uses: actions/deploy-pages@v4
+
+  postar:
+    needs: publicar-site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Postar
+        run: python -m bot.publicar
+      - name: Salvar
+        if: always()
+        run: |
+          git config user.name "achadinhos-bot"
+          git config user.email "achadinhos-bot@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "Nada novo."
+          else
+            git commit -m "Atualiza posts"
+            git pull --rebase
+            git push
+          fiDD
