@@ -1,6 +1,6 @@
 {
-  "update_offset": 398907448,
-  "proximo_id": 2,
+  "update_offset": 398907449,
+  "proximo_id": 3,
   "produtos": [
     {
       "id": "p0001",
@@ -14,6 +14,20 @@
       "preco": "R$ 129,98",
       "detalhes": "",
       "link": "https://s.shopee.com.br/BUYRRZBo0",
+      "status": "pronto"
+    },
+    {
+      "id": "p0002",
+      "criado_em": "2026-10-13T21:10:36+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        8,
+        9
+      ],
+      "nome": "Câmera de segurança YOOSEE IP66 Wi-Fi com lente dupla e sensor de movimento 360° ANJGG",
+      "preco": "R$ 125,99",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/9V2DjYOQBf",
       "status": "pronto"
     }
   ]
