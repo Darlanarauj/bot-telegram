@@ -1,6 +1,6 @@
 {
-  "update_offset": 398907450,
-  "proximo_id": 4,
+  "update_offset": 398907454,
+  "proximo_id": 8,
   "produtos": [
     {
       "id": "p0001",
@@ -52,6 +52,65 @@
       "agendado_em": "2026-10-13T22:48:54+00:00",
       "postado_em": "2026-10-13T23:12:15+00:00",
       "ig_media_id": "18492593521109325"
+    },
+    {
+      "id": "p0004",
+      "criado_em": "2026-10-14T01:44:27+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        13,
+        17
+      ],
+      "nome": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
+      "preco": "R$ 19,97",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/3g4R1kKgxm",
+      "status": "agendado",
+      "agendado_em": "2026-10-14T01:44:37+00:00"
+    },
+    {
+      "id": "p0005",
+      "criado_em": "2026-10-14T01:44:30+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        14,
+        18
+      ],
+      "nome": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
+      "preco": "R$ 31,99",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/2VsTdr0vzM",
+      "status": "agendado",
+      "agendado_em": "2026-10-14T01:44:37+00:00"
+    },
+    {
+      "id": "p0006",
+      "criado_em": "2026-10-14T01:44:32+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        15,
+        19
+      ],
+      "nome": "Fone De Ouvido Bluetooth SPOETRY Com Cancelamento De Ruído Confortável Para Estudo Home Of",
+      "preco": "R$ 54,90",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/4VdY24sqzS",
+      "status": "agendado",
+      "agendado_em": "2026-10-14T01:44:37+00:00"
+    },
+    {
+      "id": "p0007",
+      "criado_em": "2026-10-14T01:44:35+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        16,
+        20
+      ],
+      "nome": "2025 Novo Videogame Stick M15 Pro 4k 64gb Hdmi Com 2 Controles Sem Fio + 2000 Jogos",
+      "preco": "R$ 118,99",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/2qVK3A8lJk",
+      "status": "pronto"
     }
   ]
 }
