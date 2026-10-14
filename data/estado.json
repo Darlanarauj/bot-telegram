@@ -107,7 +107,7 @@
     {
       "id": "p0007",
       "criado_em": "2026-10-14T01:44:35+00:00",
-      "tentativas": 0,
+      "tentativas": 1,
       "msg_ids": [
         16,
         20
@@ -117,12 +117,13 @@
       "detalhes": "",
       "link": "https://s.shopee.com.br/2qVK3A8lJk",
       "status": "agendado",
-      "agendado_em": "2026-10-14T17:33:10+00:00"
+      "agendado_em": "2026-10-14T17:33:10+00:00",
+      "ultimo_erro": "Instagram (me): {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'ADPJr6pJyHFXHga7dRgnhHQ'}"
     },
     {
       "id": "p0008",
       "criado_em": "2026-10-14T07:06:22+00:00",
-      "tentativas": 0,
+      "tentativas": 1,
       "msg_ids": [
         22,
         27
@@ -132,12 +133,13 @@
       "detalhes": "",
       "link": "https://s.shopee.com.br/5AtF2IqS2d",
       "status": "agendado",
-      "agendado_em": "2026-10-14T17:33:10+00:00"
+      "agendado_em": "2026-10-14T17:33:10+00:00",
+      "ultimo_erro": "Instagram (me): {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'ADPJr6pJyHFXHga7dRgnhHQ'}"
     },
     {
       "id": "p0009",
       "criado_em": "2026-10-14T07:06:24+00:00",
-      "tentativas": 0,
+      "tentativas": 1,
       "msg_ids": [
         23,
         28
@@ -147,7 +149,8 @@
       "detalhes": "",
       "link": "https://s.shopee.com.br/8KqGoHiwvg",
       "status": "agendado",
-      "agendado_em": "2026-10-14T17:33:10+00:00"
+      "agendado_em": "2026-10-14T17:33:10+00:00",
+      "ultimo_erro": "Instagram (me): {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'ADPJr6pJyHFXHga7dRgnhHQ'}"
     },
     {
       "id": "p0010",
