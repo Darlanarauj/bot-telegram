@@ -1,6 +1,6 @@
 {
-  "update_offset": 398907459,
-  "proximo_id": 13,
+  "update_offset": 398907464,
+  "proximo_id": 18,
   "produtos": [
     {
       "id": "p0001",
@@ -170,7 +170,8 @@
       "preco": "R$ 45,99",
       "detalhes": "",
       "link": "https://s.shopee.com.br/7KxjcbZzCd",
-      "status": "pronto"
+      "status": "agendado",
+      "agendado_em": "2026-10-14T19:35:59+00:00"
     },
     {
       "id": "p0011",
@@ -184,7 +185,8 @@
       "preco": "R$ 239,88",
       "detalhes": "",
       "link": "https://s.shopee.com.br/7VH9p5M6qJ",
-      "status": "pronto"
+      "status": "agendado",
+      "agendado_em": "2026-10-14T19:35:59+00:00"
     },
     {
       "id": "p0012",
@@ -198,6 +200,77 @@
       "preco": "R$ 59,99",
       "detalhes": "",
       "link": "https://s.shopee.com.br/AAHv083qw4",
+      "status": "agendado",
+      "agendado_em": "2026-10-14T19:35:59+00:00"
+    },
+    {
+      "id": "p0013",
+      "criado_em": "2026-10-14T19:35:50+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        34,
+        39
+      ],
+      "nome": "Escova A Vapor Para Gatos Cães 3 Em 1 Escovas Elétricas De Pêlos Pentes De Massagem Animai",
+      "preco": "R$ 9,89",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/2BFeOEoNkB",
+      "status": "pronto"
+    },
+    {
+      "id": "p0014",
+      "criado_em": "2026-10-14T19:35:52+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        35,
+        40
+      ],
+      "nome": "Suporte Para Telefone Principal Alça De Montagem Ajustável Multifuncional Tiro Ao Vivo Pri",
+      "preco": "R$ 32,24",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/2LZ4aj5RNF",
+      "status": "pronto"
+    },
+    {
+      "id": "p0015",
+      "criado_em": "2026-10-14T19:35:53+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        36,
+        41
+      ],
+      "nome": "Sanduicheira Grill Elétrica 750W Antiaderente Koti Preta Faz 2 Sanduíches Rápido 110V ou 2",
+      "preco": "R$ 60,00",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/6q1Tx96XCP",
+      "status": "pronto"
+    },
+    {
+      "id": "p0016",
+      "criado_em": "2026-10-14T19:35:55+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        37,
+        42
+      ],
+      "nome": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
+      "preco": "R$ 41,99",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/60SMxmsCaR",
+      "status": "pronto"
+    },
+    {
+      "id": "p0017",
+      "criado_em": "2026-10-14T19:35:57+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        38,
+        43
+      ],
+      "nome": "​​MEDOOSI Xadrez Magnético de Madeira Portátil Jogo de Tabuleiro Infantil com 30Peças Brin",
+      "preco": "R$ 48,90",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/9APOjrmsnz",
       "status": "pronto"
     }
   ]
