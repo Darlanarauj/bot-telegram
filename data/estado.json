@@ -1,6 +1,6 @@
 {
-  "update_offset": 398907454,
-  "proximo_id": 8,
+  "update_offset": 398907459,
+  "proximo_id": 13,
   "produtos": [
     {
       "id": "p0001",
@@ -116,6 +116,76 @@
       "preco": "R$ 118,99",
       "detalhes": "",
       "link": "https://s.shopee.com.br/2qVK3A8lJk",
+      "status": "pronto"
+    },
+    {
+      "id": "p0008",
+      "criado_em": "2026-10-14T07:06:22+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        22,
+        27
+      ],
+      "nome": "Kit 02 Cameras A9 HD Visão Noturna Wifi Câmera 1080P Sem Fio Vigilância e Segurança",
+      "preco": "R$ 40,99",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/5AtF2IqS2d",
+      "status": "pronto"
+    },
+    {
+      "id": "p0009",
+      "criado_em": "2026-10-14T07:06:24+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        23,
+        28
+      ],
+      "nome": "Mop Spray Com Reservatório Esfregão Vassoura Mágica",
+      "preco": "R$ 41,90",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/8KqGoHiwvg",
+      "status": "pronto"
+    },
+    {
+      "id": "p0010",
+      "criado_em": "2026-10-14T07:06:26+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        24,
+        29
+      ],
+      "nome": "Ring Light Iluminador Anel Luz 30cm 12 Polegadas Tripé 2,1m MarisaStore",
+      "preco": "R$ 45,99",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/7KxjcbZzCd",
+      "status": "pronto"
+    },
+    {
+      "id": "p0011",
+      "criado_em": "2026-10-14T07:06:28+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        25,
+        30
+      ],
+      "nome": "Violão Acústico Clássico para Iniciantes Destros Cordas de Aço 6 Cordas Instrumento Musica",
+      "preco": "R$ 239,88",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/7VH9p5M6qJ",
+      "status": "pronto"
+    },
+    {
+      "id": "p0012",
+      "criado_em": "2026-10-14T07:06:30+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        26,
+        31
+      ],
+      "nome": "Amplificador de sinal Wi-Fi repetidor e roteador sem fio rede sem fio através da parede Du",
+      "preco": "R$ 59,99",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/AAHv083qw4",
       "status": "pronto"
     }
   ]
