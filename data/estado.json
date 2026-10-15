@@ -1,6 +1,6 @@
 {
-  "update_offset": 398907464,
-  "proximo_id": 18,
+  "update_offset": 398907468,
+  "proximo_id": 22,
   "produtos": [
     {
       "id": "p0001",
@@ -286,6 +286,62 @@
       "preco": "R$ 48,90",
       "detalhes": "",
       "link": "https://s.shopee.com.br/9APOjrmsnz",
+      "status": "pronto"
+    },
+    {
+      "id": "p0018",
+      "criado_em": "2026-10-15T04:59:26+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        46,
+        50
+      ],
+      "nome": "Suporte para TV´s Articulado de 10'’-55'’ Polegadas 35kg Retrátil ±15° VESA 75x75–200x200",
+      "preco": "R$ 54,98",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/6Alnf6SzTh",
+      "status": "pronto"
+    },
+    {
+      "id": "p0019",
+      "criado_em": "2026-10-15T04:59:29+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        47,
+        51
+      ],
+      "nome": "1802E Viajar Saco Das Senhoras Bolsa Grande Pacote De Esportes De Bagagem Multifuncional D",
+      "preco": "R$ 45,00",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/1Vzy6hKFKE",
+      "status": "pronto"
+    },
+    {
+      "id": "p0020",
+      "criado_em": "2026-10-15T04:59:31+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        48,
+        52
+      ],
+      "nome": "Aparador Feminino 4 Em 1 Recarregável USB Depilador Sobrancelha Nariz Axila Corpo 500mAh",
+      "preco": "R$ 34,50",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/905z2lFlKD",
+      "status": "pronto"
+    },
+    {
+      "id": "p0021",
+      "criado_em": "2026-10-15T04:59:33+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        49,
+        53
+      ],
+      "nome": "Mini Bike Ergométrica Pernas Braços Fisioterapia Cicloergometro Pedalinho Monitor LCD",
+      "preco": "R$ 107,24",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/4B0jI5XAmC",
       "status": "pronto"
     }
   ]
