@@ -374,7 +374,8 @@
       "preco": "R$ 52,90",
       "detalhes": "",
       "link": "https://s.shopee.com.br/8pma5dWaCl",
-      "status": "pronto"
+      "status": "agendado",
+      "agendado_em": "2026-10-16T18:55:03+00:00"
     },
     {
       "id": "p0023",
@@ -388,7 +389,8 @@
       "preco": "R$ 57,99",
       "detalhes": "",
       "link": "https://s.shopee.com.br/30on9B3rCj",
-      "status": "pronto"
+      "status": "agendado",
+      "agendado_em": "2026-10-16T18:55:03+00:00"
     },
     {
       "id": "p0024",
@@ -402,7 +404,8 @@
       "preco": "R$ 49,99",
       "detalhes": "",
       "link": "https://s.shopee.com.br/60SOj97f4j",
-      "status": "pronto"
+      "status": "agendado",
+      "agendado_em": "2026-10-16T18:55:03+00:00"
     },
     {
       "id": "p0025",
