@@ -1,6 +1,6 @@
 {
-  "update_offset": 398907472,
-  "proximo_id": 26,
+  "update_offset": 398907474,
+  "proximo_id": 28,
   "produtos": [
     {
       "id": "p0001",
@@ -407,6 +407,34 @@
       "preco": "R$ 36,90",
       "detalhes": "R$146,90",
       "link": "https://s.shopee.com.br/5AtHkWEXfZ",
+      "status": "pronto"
+    },
+    {
+      "id": "p0026",
+      "criado_em": "2026-10-16T00:07:09+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        63,
+        65
+      ],
+      "nome": "Bolsa de Pesca Grande Capacidade Impermeável à Prova D’Água – Saco de Armazenamento de Equ",
+      "preco": "R$ 79,99",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/50ZrkjixbM",
+      "status": "pronto"
+    },
+    {
+      "id": "p0027",
+      "criado_em": "2026-10-16T00:07:11+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        64,
+        66
+      ],
+      "nome": "Fone Bluetooth KAIDI Sem Fio Som Premium Cancelamento de Ruído e Autonomia 40h KNC5603",
+      "preco": "R$ 44,99",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/gQsayPGoN",
       "status": "pronto"
     }
   ]
