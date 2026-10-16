@@ -323,8 +323,10 @@
       "preco": "R$ 45,00",
       "detalhes": "",
       "link": "https://s.shopee.com.br/1Vzy6hKFKE",
-      "status": "agendado",
-      "agendado_em": "2026-10-16T01:06:38+00:00"
+      "status": "postado",
+      "agendado_em": "2026-10-16T01:06:38+00:00",
+      "postado_em": "2026-10-16T01:07:27+00:00",
+      "ig_media_id": "18091138283202049"
     },
     {
       "id": "p0020",
@@ -338,8 +340,10 @@
       "preco": "R$ 34,50",
       "detalhes": "",
       "link": "https://s.shopee.com.br/905z2lFlKD",
-      "status": "agendado",
-      "agendado_em": "2026-10-16T01:06:38+00:00"
+      "status": "postado",
+      "agendado_em": "2026-10-16T01:06:38+00:00",
+      "postado_em": "2026-10-16T01:07:27+00:00",
+      "ig_media_id": "18091138283202049"
     },
     {
       "id": "p0021",
@@ -353,8 +357,10 @@
       "preco": "R$ 107,24",
       "detalhes": "",
       "link": "https://s.shopee.com.br/4B0jI5XAmC",
-      "status": "agendado",
-      "agendado_em": "2026-10-16T01:06:38+00:00"
+      "status": "postado",
+      "agendado_em": "2026-10-16T01:06:38+00:00",
+      "postado_em": "2026-10-16T01:07:27+00:00",
+      "ig_media_id": "18091138283202049"
     },
     {
       "id": "p0022",
