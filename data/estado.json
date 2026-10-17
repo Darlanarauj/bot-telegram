@@ -1,6 +1,6 @@
 {
-  "update_offset": 398907474,
-  "proximo_id": 28,
+  "update_offset": 398907477,
+  "proximo_id": 31,
   "produtos": [
     {
       "id": "p0001",
@@ -453,6 +453,48 @@
       "preco": "R$ 44,99",
       "detalhes": "",
       "link": "https://s.shopee.com.br/gQsayPGoN",
+      "status": "pronto"
+    },
+    {
+      "id": "p0028",
+      "criado_em": "2026-10-17T00:09:29+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        69,
+        72
+      ],
+      "nome": "Power Bank 50000mAh com Cabos Integrados USB-C e Lightning, Lanterna LED e Alça para Trans",
+      "preco": "R$ 225,63",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/6fi7DUuHtl",
+      "status": "pronto"
+    },
+    {
+      "id": "p0029",
+      "criado_em": "2026-10-17T00:09:31+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        70,
+        73
+      ],
+      "nome": "Batedeira Philips Walita Viva 400w Vermelha 220v",
+      "preco": "R$ 129,99",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/6VOh2o2r6f",
+      "status": "pronto"
+    },
+    {
+      "id": "p0030",
+      "criado_em": "2026-10-17T00:09:33+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        71,
+        74
+      ],
+      "nome": "Kit Churrasco Personalizado 3 Peças Faca Garfo Pegador Estojo em Inox em Madeira",
+      "preco": "R$ 53,90",
+      "detalhes": "",
+      "link": "https://s.shopee.com.br/Lo3hdHxgc",
       "status": "pronto"
     }
   ]
