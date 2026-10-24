@@ -1,6 +1,6 @@
 {
-  "update_offset": 398907480,
-  "proximo_id": 34,
+  "update_offset": 398907482,
+  "proximo_id": 36,
   "produtos": [
     {
       "id": "p0001",
@@ -565,6 +565,34 @@
       "agendado_em": "2026-10-19T01:00:47+00:00",
       "postado_em": "2026-10-19T01:01:50+00:00",
       "ig_media_id": "18097257677558219"
+    },
+    {
+      "id": "p0034",
+      "criado_em": "2026-10-24T01:22:21+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        84,
+        86
+      ],
+      "nome": "Jogo de Panelas Antiaderente, Kit com 8, 10 ou 11 Peças - Com Tampas de Vidro e Utensílios",
+      "preco": null,
+      "detalhes": "171,00 no pix",
+      "link": "https://s.shopee.com.br/7fapcf7zFm",
+      "status": "pronto"
+    },
+    {
+      "id": "p0035",
+      "criado_em": "2026-10-24T01:22:23+00:00",
+      "tentativas": 0,
+      "msg_ids": [
+        85,
+        87
+      ],
+      "nome": "Suporte Organizador Controle Remoto 3D em PLA Japandi Porta Controles para Sala Rack TV 2 ",
+      "preco": null,
+      "detalhes": "25,99 - 49,99",
+      "link": "https://s.shopee.com.br/40hXGHdWjM",
+      "status": "pronto"
     }
   ]
 }
