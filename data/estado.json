@@ -578,7 +578,8 @@
       "preco": null,
       "detalhes": "171,00 no pix",
       "link": "https://s.shopee.com.br/7fapcf7zFm",
-      "status": "pronto"
+      "status": "agendado",
+      "agendado_em": "2026-10-24T01:27:41+00:00"
     },
     {
       "id": "p0035",
@@ -592,7 +593,8 @@
       "preco": null,
       "detalhes": "25,99 - 49,99",
       "link": "https://s.shopee.com.br/40hXGHdWjM",
-      "status": "pronto"
+      "status": "agendado",
+      "agendado_em": "2026-10-24T01:27:41+00:00"
     }
   ]
 }
